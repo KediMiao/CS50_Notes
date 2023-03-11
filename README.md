@@ -4,7 +4,7 @@ I heard it is a pretty good course for beginners, I won't consider myself a "beg
 
 My undergraduate background is ME, all about cars and tanks Haha. Master's was EE, all about rockets and Math. (ಥ﹏ಥ)
 
-After graduated from WashU, I worked in a small University dealing with all kinds of stuff. Consider myself pretty much a professional in school management fields. ( ͡• ͜ʖ ͡• )
+After graduated from WashU, I worked in a small University dealing with all kinds of stuff, small "start-up" University can be really really busy, I need to work 7 days a week often, so I can only learn programming at night. But Anyway, as director of USJ, I am now consider myself pretty much a professional in school management fields. ( ͡• ͜ʖ ͡• )
 
 So as you can see, by the time I am 90, I will be the smartest person in the -------wait for it---------neighborhood! 
 
