@@ -17,4 +17,18 @@ Computer only speak zero to one, I know that. Three body problem said that Haha,
 
 8 bits to represent a number normally, so largest number will be 2^2 + 2^1 + 2^0 + ... + 2^7 = IDK 
 
-2. Text
+1 byte = 8 bits
+1 byte maximum 255
+
+Q:how to repersent letter with byte?
+A: Use ACSII (American Standard Code), for instance: A is 65 (01000001), numbers 0 - 9 are also reperesent in different byte.
+Unicode (32bits) for more characters, like Asian Words\Emojis...
+
+Every Emoji is assigned with a number, different color skins just added another bytes behind it. Or three emojis in one... Save a lot of space for 32bytes.
+RGB use three bytes to repersent the color, red blue green. Every pixel on computer is one byte.
+For video, like movie is 24FPS (number of image per seconds).
+
+
+2. pseudocode
+ 
+
